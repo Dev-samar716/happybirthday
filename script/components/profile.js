@@ -7,7 +7,7 @@
       div.className = "section section-profile";
       div.innerHTML = `
         <div class="profile-wrapper">
-          <img src="${config.photo}" alt="profile" class="profile-picture" />
+          <img src="img/Sambriddhi.jpg" alt="profile" class="profile-picture" />
         </div>
         <div class="wish">
           <h3 class="wish-hbd">${section.wishTitle || "Happy Birthday!"}</h3>
