@@ -8,7 +8,7 @@
       div.innerHTML = `
         <h1 class="greeting-title">
           ${section.title || "Hi"}
-          <span class="greeting-name">${config.name}</span>
+          <span class="greeting-name">Sambriddhi</span>
         </h1>
         <p class="greeting-subtitle">${section.subtitle || ""}</p>
       `;
